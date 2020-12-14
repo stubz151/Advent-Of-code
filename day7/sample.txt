@@ -1,0 +1,36 @@
+
+
+darktomato['3lightgray', '2dullcyan', '4tripedilver', '5darkfuchia']14
+pohcoral['3darktomato']42
+mutedgreen['5tripedilver', '5brightorange']10
+mutedgreen['5tripedilver', '5brightorange']10
+lightolive['4tripedturquoie']4
+brighttomato['2mutedgreen', '1lightolive']24
+vibrantwhite['3mutedgreen', '2brighttomato']78
+dottedblack['2vibrantwhite']156
+lightolive['4tripedturquoie']4
+mirroredyellow['4lightolive']16
+pohlime['5mirroredyellow', '1tripedilver']81
+lightolive['4tripedturquoie']4
+brightblue['5pohilver', '4dullcyan', '4lightolive', '1mirroredwhite']26
+lightblack['1pohcoral', '4dottedblack', '4pohlime', '4brightblue']1094
+lightolive['4tripedturquoie']4
+mirroredyellow['4lightolive']16
+hinygold['5lightblack', '3mirroredyellow', '5mutedplum']5523
+darktomato['3lightgray', '2dullcyan', '4tripedilver', '5darkfuchia']14
+pohcoral['3darktomato']45
+mutedgreen['5tripedilver', '5brightorange']10
+mutedgreen['5tripedilver', '5brightorange']10
+lightolive['4tripedturquoie']4
+brighttomato['2mutedgreen', '1lightolive']27
+vibrantwhite['3mutedgreen', '2brighttomato']89
+dottedblack['2vibrantwhite']180
+lightolive['4tripedturquoie']4
+mirroredyellow['4lightolive']20
+pohlime['5mirroredyellow', '1tripedilver']106
+lightolive['4tripedturquoie']4
+brightblue['5pohilver', '4dullcyan', '4lightolive', '1mirroredwhite']30
+lightblack['1pohcoral', '4dottedblack', '4pohlime', '4brightblue']1322
+lightolive['4tripedturquoie']4
+mirroredyellow['4lightolive']20
+hinygold['5lightblack', '3mirroredyellow', '5mutedplum']6683

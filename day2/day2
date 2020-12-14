@@ -1,0 +1,39 @@
+from common_logic import CommonLogic
+
+
+def get_value(input_arr):
+    valid_inputs_count = 0
+    for x in input_arr:
+        line = x.split(' ')
+        first_cond = int(line[0].split('-')[0])
+        second_cond = int(line[0].split('-')[1])
+        cond_char = line[1][0]
+        cond_char_in_line_count = 0
+        for y in line[2]:
+            if y == cond_char:
+                cond_char_in_line_count += 1
+                if cond_char_in_line_count > second_cond:
+                    break
+        # Only if it doesn't break does it hit this else
+        else:
+            if cond_char_in_line_count >= first_cond:
+                valid_inputs_count += 1
+    return valid_inputs_count
+
+
+def get_value_second_challenge(input_arr):
+    valid_inputs_count = 0
+    for x in input_arr:
+        line = x.split(' ')
+        first_cond = int(line[0].split('-')[0])
+        second_cond = int(line[0].split('-')[1])
+        cond_char = line[1][0]
+        value_to_add = 1 if line[2][first_cond-1] == cond_char else 0
+        if line[2][second_cond-1] == cond_char:
+            value_to_add = 1 - value_to_add
+        valid_inputs_count += value_to_add
+    return valid_inputs_count
+
+
+if __name__ == '__main__':
+    print(get_value(CommonLogic.get_input_as_str_arr()))
