@@ -1,0 +1,33 @@
+#!/bin/python3
+
+import math
+import os
+import random
+import re
+import sys
+
+# Complete the checkMagazine function below.
+def countTriplets(arr, r):
+        count = 0
+        dict = {}
+        dictPairs = {}
+        arr = list(reversed(arr))
+        for i in arr:
+                if i*r in dictPairs:
+                        count += dictPairs[i*r]
+                if i*r in dict:
+                        dictPairs[i] = dictPairs.get(i, 0) + dict[i*r]
+
+                dict[i] = dict.get(i, 0) + 1
+
+        return count
+
+
+if __name__ == '__main__':
+    with open('input', 'r') as f:
+            data = f.read()
+            r = int(data.rstrip().split()[1])
+            arr = list(map(int, data.rstrip().split()[2:]))
+            ans = countTriplets(arr, r)
+            print(ans)
+

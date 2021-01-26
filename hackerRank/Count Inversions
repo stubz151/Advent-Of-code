@@ -1,0 +1,51 @@
+#!/bin/python3
+
+import math
+import os
+import random
+import re
+import sys
+
+
+def merge_arrays(a1, a2):
+    count = 0
+    i = 0
+    j = 0
+    lenA1 = len(a1)
+    lenA2 = len(a2)
+    temp_arr = []
+    while i < lenA1 and j < lenA2:
+        if a1[i] <= a2[j]:
+            temp_arr.append(a1[i])
+            i += 1
+        else:
+            temp_arr.append(a2[j])
+            j += 1
+            count += lenA1 - i
+    temp_arr += a1[i:]
+    temp_arr += a2[j:]
+    return count, temp_arr
+
+
+def merge_sort(arr):
+    n = len(arr)
+    mid = n // 2
+    if n > 1:
+        left_swaps, left_result = merge_sort(arr[:mid])
+        right_swaps, right_result = merge_sort(arr[mid:])
+        m_swaps, result = merge_arrays(left_result, right_result)
+        return m_swaps + left_swaps + right_swaps, result
+    return 0, arr
+
+
+# Complete the countInversions function below.
+def countInversions(arr):
+    x,y = merge_sort(arr)
+    return x
+
+
+if __name__ == '__main__':
+    arr = [3, 2, 1]
+
+    result = countInversions(arr)
+    print(result)

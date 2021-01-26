@@ -1,0 +1,40 @@
+class Solution(object):
+    def findMedianSortedArrays(nums1, nums2):
+        median_pos = ((len(nums1) + len(nums2)) // 2)
+        i, j = 0, 0
+        while i < len(nums1) - 1 and j < len(nums2) - 1:
+            if i+j == median_pos:
+                    if (len(nums1) + len(nums2)) % 2 == 0:
+                        next_item = min(nums1[i+1], nums2[j+1])
+                        cur_item = min(nums1[i], nums2[j])
+                        return (next_item + cur_item) / 2.00
+                    else:
+                        return min(nums1[i], nums2[j]) * 1.00
+            if nums1[i] <= nums2[j]:
+                i += 1
+            else:
+                j += 1
+
+        while i < len(nums1):
+                if i+j == median_pos:
+                    if (len(nums1) + len(nums2)) % 2 == 0:
+                        cur_item = min(nums2[j], nums1[i])
+                        next_item = nums2[i+1]
+                        return (next_item + cur_item) / 2.00
+                    else:
+                        return nums1[i] * 1.00
+                i +=1
+        while j < len(nums2):
+                if i+j == median_pos:
+                    if (len(nums1) + len(nums2)) % 2 == 0:
+                        cur_item = min(nums2[j], nums1[i])
+                        next_item = nums2[j+1]
+                        return (next_item + cur_item) / 2.00
+                    else:
+                        return nums2[j] * 1.00
+                j += 1
+
+    if __name__ == '__main__':
+        arr1 = [1, 3]
+        arr2 = [2]
+        print(findMedianSortedArrays(arr1, arr2))

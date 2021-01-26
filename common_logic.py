@@ -4,8 +4,24 @@ class CommonLogic:
     def get_input_as_int_arr():
         with open('input', 'r') as f:
             data = f.read()
-        res = [int(i) for i in data.split()]
-        return res
+            res = [int(i) for i in data.split()]
+            return res
+
+
+    @staticmethod
+    def get_input_as_int_arr():
+        with open('input', 'r') as f:
+            data = f.read()
+            res = [int(i) for i in data.split()]
+            return res
+
+
+    @staticmethod
+    def get_input_as_int_pairs_arr():
+        with open('input', 'r') as f:
+            data = f.read()
+            arr = [i.split() for i in data.splitlines()]
+        return arr
 
     @staticmethod
     def get_input_as_str_arr():
