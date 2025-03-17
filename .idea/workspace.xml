@@ -1,30 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f6c86abe-70a5-48b5-b7ad-88d4265bafbb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hackerRank/Count Inversions" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerRank/DictExample" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerRank/alternatingStrings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerRank/candies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerRank/coin_problem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerRank/copy_arb_point.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerRank/determine_if_bst.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerRank/findPairs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerRank/flowers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerRank/input" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerRank/level_order_bt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerRank/luck.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerRank/median_of_two" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerRank/node.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerRank/random_node.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerRank/reverse_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerRank/specialsubstrings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerRank/stringAnagrams" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerRank/string_segementation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerRank/traverse_random_single-List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerRank/tripplesum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/adventCalendar.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/adventCalendar.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/common_logic.py" beforeDir="false" afterPath="$PROJECT_DIR$/common_logic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/day1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2023/day1/day1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/input" beforeDir="false" afterPath="$PROJECT_DIR$/2023/day1/input" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day10/day10.py" beforeDir="false" afterPath="$PROJECT_DIR$/2023/day10/day10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day10/input" beforeDir="false" afterPath="$PROJECT_DIR$/2023/day10/input" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day11/day11.py" beforeDir="false" afterPath="$PROJECT_DIR$/2023/day11/day11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day11/input" beforeDir="false" afterPath="$PROJECT_DIR$/2023/day11/input" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12/day12.py" beforeDir="false" afterPath="$PROJECT_DIR$/2023/day12/day12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12/input" beforeDir="false" afterPath="$PROJECT_DIR$/2023/day12/input" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day13/day13.py" beforeDir="false" afterPath="$PROJECT_DIR$/2023/day13/day13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day13/input" beforeDir="false" afterPath="$PROJECT_DIR$/2023/day13/input" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/day2" beforeDir="false" afterPath="$PROJECT_DIR$/2023/day2/day2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/input" beforeDir="false" afterPath="$PROJECT_DIR$/2023/day2/input" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day4/day4.py" beforeDir="false" afterPath="$PROJECT_DIR$/2023/day4/day4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day4/input" beforeDir="false" afterPath="$PROJECT_DIR$/2023/day4/input" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/day5.py" beforeDir="false" afterPath="$PROJECT_DIR$/2023/day5/day5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/input" beforeDir="false" afterPath="$PROJECT_DIR$/2023/day5/input" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day6/day6.py" beforeDir="false" afterPath="$PROJECT_DIR$/2023/day6/day6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day6/input" beforeDir="false" afterPath="$PROJECT_DIR$/2023/day6/input" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day7/day7.py" beforeDir="false" afterPath="$PROJECT_DIR$/2023/day7/day7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day7/input" beforeDir="false" afterPath="$PROJECT_DIR$/2023/day7/input" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day7/out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/day7/out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day7/sample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/day7/sample.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day8/day8.py" beforeDir="false" afterPath="$PROJECT_DIR$/2023/day8/day8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day8/input" beforeDir="false" afterPath="$PROJECT_DIR$/2023/day8/input" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day9/day9.py" beforeDir="false" afterPath="$PROJECT_DIR$/2023/day9/day9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day9/input" beforeDir="false" afterPath="$PROJECT_DIR$/2023/day9/input" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,26 +52,39 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
   <component name="ProjectId" id="1l3Thlz7CziQMzTg9Pqfa29WCbG" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.day1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\stubbs\Projects\advent\Advent-Of-code\2023" />
       <recent name="C:\Users\MichaelS\adventCalendar\day1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.coin_problem">
+  <component name="RunManager" selected="Python.day1">
     <configuration name="coin_problem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="adventCalendar" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -71,7 +95,31 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackerRank/coin_problem.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="day1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="adventCalendar" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2024/day1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2024/day1/day1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,6 +130,7 @@
     </configuration>
     <configuration name="determine_if_bst" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="adventCalendar" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -92,28 +141,8 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackerRank/determine_if_bst.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="level_order_bt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="adventCalendar" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hackerRank" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackerRank/level_order_bt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,6 +153,7 @@
     </configuration>
     <configuration name="reverse_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="adventCalendar" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -134,6 +164,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackerRank/reverse_string.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -145,6 +176,7 @@
     </configuration>
     <configuration name="traverse_random_single-List" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="adventCalendar" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -155,6 +187,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackerRank/traverse_random_single-List.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -166,137 +199,78 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.day1" />
         <item itemvalue="Python.coin_problem" />
         <item itemvalue="Python.reverse_string" />
         <item itemvalue="Python.determine_if_bst" />
         <item itemvalue="Python.traverse_random_single-List" />
-        <item itemvalue="Python.level_order_bt" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.25659.43" />
+        <option value="bundled-python-sdk-181015f7ab06-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.25659.43" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="674" y="269" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611236600516">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="539" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1608271779765" />
-    <state x="674" y="269" key="#com.intellij.fileTypes.FileTypeChooser/1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1611236600516" />
-    <state x="2459" y="216" key="#com.intellij.fileTypes.FileTypeChooser/1920.1.1536.832/0.0.1920.1040@1920.1.1536.832" timestamp="1606826533496" />
-    <state width="805" height="466" key="DebuggerActiveHint" timestamp="1611657504890">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="624" height="370" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1608279424774" />
-    <state width="805" height="466" key="DebuggerActiveHint/1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1611657504890" />
-    <state width="1515" height="217" key="GridCell.Tab.0.bottom" timestamp="1611666708628">
-      <screen x="1920" y="1" width="1536" height="832" />
-    </state>
-    <state width="1515" height="164" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611505264619" />
-    <state width="1899" height="217" key="GridCell.Tab.0.bottom/1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1611665316355" />
-    <state width="1515" height="217" key="GridCell.Tab.0.bottom/1920.1.1536.832/0.0.1920.1040@1920.1.1536.832" timestamp="1611666708628" />
-    <state width="1515" height="217" key="GridCell.Tab.0.center" timestamp="1611666708628">
-      <screen x="1920" y="1" width="1536" height="832" />
-    </state>
-    <state width="1515" height="164" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1611505264618" />
-    <state width="1899" height="217" key="GridCell.Tab.0.center/1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1611665316355" />
-    <state width="1515" height="217" key="GridCell.Tab.0.center/1920.1.1536.832/0.0.1920.1040@1920.1.1536.832" timestamp="1611666708628" />
-    <state width="1515" height="217" key="GridCell.Tab.0.left" timestamp="1611666708628">
-      <screen x="1920" y="1" width="1536" height="832" />
-    </state>
-    <state width="1515" height="164" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1611505264618" />
-    <state width="1899" height="217" key="GridCell.Tab.0.left/1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1611665316354" />
-    <state width="1515" height="217" key="GridCell.Tab.0.left/1920.1.1536.832/0.0.1920.1040@1920.1.1536.832" timestamp="1611666708628" />
-    <state width="1515" height="217" key="GridCell.Tab.0.right" timestamp="1611666708628">
-      <screen x="1920" y="1" width="1536" height="832" />
-    </state>
-    <state width="1515" height="164" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1611505264619" />
-    <state width="1899" height="217" key="GridCell.Tab.0.right/1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1611665316355" />
-    <state width="1515" height="217" key="GridCell.Tab.0.right/1920.1.1536.832/0.0.1920.1040@1920.1.1536.832" timestamp="1611666708628" />
-    <state width="1515" height="217" key="GridCell.Tab.1.bottom" timestamp="1611666708628">
-      <screen x="1920" y="1" width="1536" height="832" />
-    </state>
-    <state width="1515" height="164" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611505264619" />
-    <state width="1899" height="217" key="GridCell.Tab.1.bottom/1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1611665316870" />
-    <state width="1515" height="217" key="GridCell.Tab.1.bottom/1920.1.1536.832/0.0.1920.1040@1920.1.1536.832" timestamp="1611666708628" />
-    <state width="1515" height="217" key="GridCell.Tab.1.center" timestamp="1611666708628">
-      <screen x="1920" y="1" width="1536" height="832" />
-    </state>
-    <state width="1515" height="164" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1611505264619" />
-    <state width="1899" height="217" key="GridCell.Tab.1.center/1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1611665316870" />
-    <state width="1515" height="217" key="GridCell.Tab.1.center/1920.1.1536.832/0.0.1920.1040@1920.1.1536.832" timestamp="1611666708628" />
-    <state width="1515" height="217" key="GridCell.Tab.1.left" timestamp="1611666708628">
-      <screen x="1920" y="1" width="1536" height="832" />
-    </state>
-    <state width="1515" height="164" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1611505264619" />
-    <state width="1899" height="217" key="GridCell.Tab.1.left/1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1611665316869" />
-    <state width="1515" height="217" key="GridCell.Tab.1.left/1920.1.1536.832/0.0.1920.1040@1920.1.1536.832" timestamp="1611666708628" />
-    <state width="1515" height="217" key="GridCell.Tab.1.right" timestamp="1611666708628">
-      <screen x="1920" y="1" width="1536" height="832" />
-    </state>
-    <state width="1515" height="164" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1611505264619" />
-    <state width="1899" height="217" key="GridCell.Tab.1.right/1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1611665316870" />
-    <state width="1515" height="217" key="GridCell.Tab.1.right/1920.1.1536.832/0.0.1920.1040@1920.1.1536.832" timestamp="1611666708628" />
-    <state x="2197" y="56" key="SettingsEditor" timestamp="1606825029717">
-      <screen x="1920" y="1" width="1536" height="832" />
-    </state>
-    <state x="2197" y="56" key="SettingsEditor/1920.1.1536.832/0.0.1920.1040@1920.1.1536.832" timestamp="1606825029717" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1608286872133">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1608286872133" />
-    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1607677613022">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="968" height="528" key="XDebugger.FullValuePopup/1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1607677613022" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1608275013426">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1608275013426" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1607612806482">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1607612806482" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1742247044109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742247044109</updated>
+      <workItem from="1742247045737" duration="2074000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/day4/day4.py</url>
+          <url>file://$PROJECT_DIR$/2023/day4/day4.py</url>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/day7/day7.py</url>
+          <url>file://$PROJECT_DIR$/2023/day7/day7.py</url>
           <line>62</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/day8/day8.py</url>
+          <url>file://$PROJECT_DIR$/2023/day8/day8.py</url>
           <line>71</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/day8/day8.py</url>
+          <url>file://$PROJECT_DIR$/2023/day8/day8.py</url>
           <line>54</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/day12/day12.py</url>
+          <url>file://$PROJECT_DIR$/2023/day12/day12.py</url>
           <line>9</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/day12/day12.py</url>
+          <url>file://$PROJECT_DIR$/2023/day12/day12.py</url>
           <line>48</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/day13/day13.py</url>
+          <url>file://$PROJECT_DIR$/2023/day13/day13.py</url>
           <line>30</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/day13/day13.py</url>
+          <url>file://$PROJECT_DIR$/2023/day13/day13.py</url>
           <line>47</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
@@ -404,5 +378,8 @@
         <watch expression="mods[13]" />
       </configuration>
     </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/day3_py$day1.coverage" NAME="day1 Coverage Results" MODIFIED="1742249045976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2024/day1" />
   </component>
 </project>
